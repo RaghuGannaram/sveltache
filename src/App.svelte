@@ -26,7 +26,7 @@
 </script>
 
 <main>
-    <h1>To-Do List 📖</h1>
+    <h1>Sveltâche 📖</h1>
     <Form on:add={(e) => handleItemAddition(e)} />
     <List {items} on:remove={(e) => handleItemRemoval(e)} />
 </main>
