@@ -4,6 +4,7 @@
 Inspired by the French word "Tâche" (Task), Sveltâche combines the elegance of Svelte 🌿 with the functionality of task management 🗂️.  
 
 
+
 <!-- # This repo is no longer maintained. Consider using `npm init vite` and selecting the `svelte` option or — if you want a full-fledged app framework — use [SvelteKit](https://kit.svelte.dev), the official application framework for Svelte.
 
 ---
